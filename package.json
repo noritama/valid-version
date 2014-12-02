@@ -1,0 +1,20 @@
+{
+  "name": "valid-version",
+  "version": "0.0.1",
+  "description": "get latest valid version by semver",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "semver": "^4.1.0"
+  },
+  "devDependencies": {
+    "espower-loader": "^0.10.0",
+    "intelli-espower-loader": "^0.5.0",
+    "mocha": "^2.0.1",
+    "power-assert": "^0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noritama/valid-version"
+  }
+}
